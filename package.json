@@ -1,0 +1,26 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "Language Interpretation and Recognition Interface",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SMontague29/LIRI.git"
+  },
+  "author": "Scott Montague",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SMontague29/LIRI/issues"
+  },
+  "homepage": "https://github.com/SMontague29/LIRI",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "request": "^2.81.0",
+    "simple-node-logger": "^0.93.28",
+    "spotify": "^1.0.6",
+    "twitter": "^1.7.1"
+  }
+}
